@@ -265,4 +265,13 @@ MIT — build, fork, and extend freely.
 
 ---
 
+UI screenshots
+![WhatsApp Image 2026-02-26 at 11 39 30 PM](https://github.com/user-attachments/assets/56743e4c-0c5a-47fa-a2c6-8d96e2d7b8b6)
+
+
+![WhatsApp Image 2026-02-26 at 11 39 32 PM](https://github.com/user-attachments/assets/40becdd8-aba1-4f7a-b0f7-3a3f78b61944)
+
+![WhatsApp Image 2026-02-26 at 11 39 34 PM](https://github.com/user-attachments/assets/f946001a-6f1f-44f2-aef3-3a2126e3b77a)
+
+
 *GreenPulse India — Because every breath counts.*
