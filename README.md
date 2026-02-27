@@ -134,7 +134,7 @@ open frontend/index.html
 # Or just drag the file into Chrome/Firefox
 ```
 
-🎉 **Everything is now live.** The dashboard polls the API every 3 seconds and updates
+ **Everything is now live.** The dashboard polls the API every 3 seconds and updates
 automatically as new data flows through Kafka → Pathway → FastAPI → Browser.
 
 ---
