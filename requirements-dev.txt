@@ -1,0 +1,16 @@
+# GreenPulse India — Development Dependencies
+# Install alongside requirements.txt for local development
+
+# Linting & formatting
+ruff>=0.4.0
+
+# Type checking
+mypy>=1.10.0
+
+# Security scanning
+bandit>=1.7.0
+
+# Testing (future)
+pytest>=8.0.0
+pytest-asyncio>=0.23.0
+httpx>=0.26.0            # for FastAPI TestClient
